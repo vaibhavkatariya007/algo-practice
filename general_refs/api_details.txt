@@ -1,0 +1,13 @@
+/api/v2/refresh_token
+{
+"username": "",
+"refresh_token": <refresh_token>
+}
+
+https://gps-v2.goeducate.com/qa/api/v2/student_details
+?cognito_username=52195eec-af88-4420-8cc8-4ec42a87c1f5
+
+
+https://restcountries.eu/rest/v2/all
+
+country/currency API

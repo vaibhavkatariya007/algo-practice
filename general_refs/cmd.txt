@@ -1,0 +1,3 @@
+
+// Multi stage environment
+env-cmd -f .env.testing 

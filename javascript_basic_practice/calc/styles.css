@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+}
+#layout{
+    display: flex;
+    justify-content: center;
+}
+#calculator{
+    width: 350px;
+   
+}
+#screen{
+    height: 100px;
+    background-color: rgb(142 21 21);
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(255 255 255);
+}
+#screen>div{
+    padding: 5px;
+    border-bottom: 1px solid #fff;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+#controls{
+    background: rgb(0 0 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#controls>div{
+    display: flex;
+    margin: 5px;
+    color: rgb(255 255 255);
+}
+#controls>div:first-child{
+    margin-top: 0;
+}
+#controls>div:nth-child(5){
+    margin-bottom: 0;
+}
+#controls>div>div{
+    width: 25%;
+    border:1px solid #fff;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+    cursor: pointer;
+    box-shadow: 0px 0px 11px #fff;
+}
+
+/* User List */
+#userContainer{
+text-align: center;
+margin-top: 50px;
+}
+#searchField {
+    height: 48px;
+    width: 500px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#disdata {
+    width:500px;
+    margin: 0 auto;
+    border: 1px solid #000;
+}
+
+.user{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #000;
+    
+}
+.user:nth-child(even){
+    background-color: #f0f0f0;
+}
+.user>img{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+.user>span {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}

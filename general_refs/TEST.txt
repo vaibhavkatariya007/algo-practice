@@ -1,0 +1,5 @@
+
+Review Library for Ping Integration with React
+Library we are using: https://github.com/openid/AppAuth-JS 
+
+Example how to use with React: https://github.com/kdhttps/appauth-react 

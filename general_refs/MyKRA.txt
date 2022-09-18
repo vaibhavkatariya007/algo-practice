@@ -1,0 +1,73 @@
+KRA------ 2021-2022
+1) Customer Focus:
+
+I think I have given my best to fulfill the requirements of the customer's need and improve the product quality. Results we got good appreciations 
+from our client and they are happy with our work and there were no escalations which is a good sign for me and my team members it gives us confidence 
+while delivering the work.
+
+I am hoping that my team members are also happy working with me because I do not create any kind of pressure on any of the team members. I always motivate 
+them like that they can understand their responsibility towards the product delivery and whatever task is assigned to them. If they are stuck anywhere I 
+help them. And if I feel that their code needs improvement then I work with them and teach them at the same time, I also learn from them and appreciate 
+them when they did well.
+
+I am personally always more focused on improving the product quality apart from the routine delivery. 
+
+I refactor the code on a daily basis where ever is necessary and always try to improve the business logic which helps in improving 
+the performance of the application. 
+
+I review the codes that other team members are delivered. To avoid the risks to the application and to maintain the coding pattern and standards.
+ 
+I personally follow the code style guides which are recommended by developers from big IT giants like Google, Facebook, and Airbnb, etc.Because 
+they handle the very complex single-page application with React and other javascript frameworks. Which helps me in avoiding the mistakes which 
+will be harmful to the product. And I am always looking for new and better solutions which help to improve because I love my products so much.
+
+
+We integrated Cloudinary for image optimizations which really helps us for improving the application performance and the Sentry tool for keeping
+real-time monitoring of the application which notifies the developers asap if any end-user faces any issues. And integrates Google Analytics with 
+tag manager to measure the real-time traffic on the portal.
+
+At the same time, I am maintaining the documentation of whatever new things we are implementing in our projects so that other team 
+members can understand the implementation easily and I always encourage my team members also to document the implementation which 
+they explore and keep safe the reference links so that will be helpful for the other team members as well.
+
+
+2) Financial:
+I do take care of the code quality, I review the codes done by the other team members, and I am always trying to maintain the same standards to follow
+across the application which may avoid the risk of application break, and indirect damages to the organization. And I always try to adopt the good coding 
+standards recommended by the industry and ask my teammates to follow the same guidelines.And, we do complete all the tasks before time to avoid escalation 
+and damage to the organization's as well as personal reputation. I am personally always more focused on improving the product quality apart from the routine 
+delivery. I refactor the code on a daily basis where ever is necessary and always try to improve the business logic which helps in improving 
+the performance of the application.To avoid the risks to the application and to maintain the coding pattern and standards.
+ 
+
+3) Business Processes:
+I follow the industry-standard guides for application building and guiding my teammates to follow the standards and encourage them to look 
+for application code again from time to time and do the improvements. I do not leave the application as it is but I always try to find the 
+areas of improvement for the better stability of the application. To manage the enterprise-level application becomes very hard 
+if we don't do these activities from time to time.
+
+I give training to the new joiner and give the walkthrough of the application and the application code.
+And help them if they got stuck anywhere then I help them and make them a productive resource. And I ask them also to bring suggestions 
+for improving the architecture of the application. 
+This helps them to improve their reading habits and I believe this will be beneficial for our organization.
+
+I participate in sprint plannings and task allocations and to make sure that sprint will deliver on time
+without any loss. Sometimes for the successful delivery, we put in extra effort i.e we extend our working hrs and even 
+we worked on weekends also to fulfill our commitments. Because making one mistake can be harmful to the complete project and team. 
+
+
+4) People Related:
+
+I do Participation in evaluating the candidates and look for best talent for our organization.
+
+I do Participation in team mentoring and at an individual level also guide my team members and support them when required 
+to make sure that they can improve their skills and productivity. 
+
+And For my personal development I self tut myself for that I take online courses, read blogs and articles to excel my skills.Takes guidence
+from my manager and seniors time to time. I attend the training sessions which are being conducted in our organzation from time to time 
+that helps me in boosting my skills.
+
+
+
+
+

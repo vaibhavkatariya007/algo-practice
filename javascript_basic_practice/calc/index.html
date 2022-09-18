@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Calculator</title>
+            <script defer src="./cal.js"></script>
+            <script defer src="./dom.js"></script>
+            <script defer src="./api.js"></script>
+            <script defer src="./countdown.js"></script>
+           <link rel="stylesheet" href="styles.css">
+        </head>
+        <body>
+            <div id="test"></div>
+            <div id="test2"></div>
+            <h1>Calclator App</h1>
+            <div id='layout'>
+            <div id="calculator">
+                <div id="screen">
+                    <div id="prevOperand"></div>
+                    <div id="newOperand"></div>
+                </div>
+
+                <div id="controls">
+                    <div>
+                        <div id="clear">C</div>
+                        <div class="operator">%</div>
+                        <div id="del">Del</div>
+                        <div class="operator">/</div>
+                    </div>
+                    <div>
+                        <div class="num">9</div>
+                        <div class="num">8</div>
+                        <div class="num">7</div>
+                        <div class="operator">*</div>
+                    </div>
+                    <div>
+                        <div class="num">6</div>
+                        <div class="num">5</div>
+                        <div class="num">4</div>
+                        <div class="operator">+</div>
+                    </div>
+                    <div>
+                        <div class="num">3</div>
+                        <div class="num">2</div>
+                        <div class="num">1</div>
+                        <div class="operator">-</div>
+                    </div>
+                    <div>
+                        <div class="num">00</div>
+                        <div class="num">0</div>
+                        <div class="num">.</div>
+                        <div class="operator">=</div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div id='userContainer'>
+                <input type="text" id="searchField" placeholder="Search User..." /> 
+                <select id="gender">
+                    <option>Male</option>
+                    <option>Female</option>
+                </select>
+                <input class='rad' type="radio" name="test" value="true"/>
+                <input class='rad' type="radio" name="test" value="false"/>
+                <div id="disdata">Loading...</div>
+            </div>
+            <div id="countdown">
+                <span id="counter">00:00:00</span>
+                <button id="start">Start</button>
+                <button id="stop">Stop</button>
+                <button id="pauseAndResume">Pause/Resume</button>
+            </div>
+            <script src="./functionchain.js"></script>
+            <script>
+                $("#test").height(200).width(300).background("red")
+            </script>
+        </body>
+    </html>

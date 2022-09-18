@@ -1,0 +1,20 @@
+https://assets.furlenco.com/image/upload/dpr_1.0,f_auto,q_auto/v1/s3-furlenco-images/hulk/home/hero2.jpg 1x, 
+https://assets.furlenco.com/image/upload/dpr_2.0,f_auto,q_auto/v1/s3-furlenco-images/hulk/home/hero2.jpg 2x,
+https://assets.furlenco.com/image/upload/dpr_3.0,f_auto,q_auto/v1/s3-furlenco-images/hulk/home/hero2.jpg 3x
+
+
+
+
+https://assets.furlenco.com/image/upload/dpr_1.0,f_auto,q_auto/v1/s3-furlenco-images/hulk/home/whyRentPhotos/why_rent_02.jpg 1x,
+https://assets.furlenco.com/image/upload/dpr_2.0,f_auto,q_auto/v1/s3-furlenco-images/hulk/home/whyRentPhotos/why_rent_02.jpg 2x, 
+https://assets.furlenco.com/image/upload/dpr_3.0,f_auto,q_auto/v1/s3-furlenco-images/hulk/home/whyRentPhotos/why_rent_02.jpg 3x
+
+
+
+https://assets.furlenco.com/image/upload/c_scale,e_blur:75,f_auto,q_0.5,w_20/v1/furlenco-images/1yHe8Rnc_mobile_Mobile__9_.jpg
+
+https://assets.furlenco.com/image/upload/c_fit,dpr_1.0,f_auto,q_auto,w_360/v1/furlenco-images/Y8cjxueJ_mobile_Mobile.jpg 1x, 
+https://assets.furlenco.com/image/upload/c_fit,dpr_2.0,f_auto,q_auto,w_360/v1/furlenco-images/Y8cjxueJ_mobile_Mobile.jpg 2x, 
+https://assets.furlenco.com/image/upload/c_fit,dpr_3.0,f_auto,q_auto,w_360/v1/furlenco-images/Y8cjxueJ_mobile_Mobile.jpg 3x
+
+https://res.cloudinary.com/vaibhavaccionlabs/image/upload/ar_5.6,c_fill,dpr_1.0,e_sharpen,e_auto_brightness,g_auto,h_150,q_60,w_250/y_-0.5/dev/path_banner/riwhmvn3nyyjpcginymq.jpg 1x, https://res.cloudinary.com/vaibhavaccionlabs/image/upload/ar_5.6,c_fill,dpr_2.0,e_sharpen,e_auto_brightness,g_auto,h_150,q_60,w_250/y_-0.5/dev/path_banner/riwhmvn3nyyjpcginymq.jpg 2x, https://res.cloudinary.com/vaibhavaccionlabs/image/upload/ar_5.6,c_fill,dpr_3.0,e_sharpen,e_auto_brightness,g_auto,h_150,q_60,w_250/y_-0.5/dev/path_banner/riwhmvn3nyyjpcginymq.jpg 3x,

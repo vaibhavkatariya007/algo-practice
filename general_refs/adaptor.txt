@@ -1,0 +1,18 @@
+
+@Configuration
+@EnableWebSecurity
+@ComponentScan("sec.oidc.spring.simple.filter")
+public class SecurityConfig extends WebSecurityConfigurerAdapter {
+     
+    @Autowired
+    AuthorizerFilter authorizer;
+     
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http.addFilterAfter(authorizer, AbstractPreAuthenticatedProcessingFilter.class)
+        .authorizeRequests()
+        .anyRequest().authenticated()
+        .and()
+        .csrf().disable();
+    }
+}

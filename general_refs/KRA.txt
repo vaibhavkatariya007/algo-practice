@@ -1,0 +1,23 @@
+Hi Raghavendra,
+
+Following is the list of KRA's for frontend team as requested i think we can include them.
+
+-------------------------------------------------------------------------------------------
+
+1) Have you ever thought of improving the performance of the application?
+(beyond your assigned work).
+
+2) How do you think to overcome the challeges from a code perspective? 
+(Like, you did any POC before execution of actual implementation).
+
+3) How confident you are while delivering your code? What extra measures do you take? 
+
+4) How you are upgrading your current skill set which will be beneficial for you 
+as well as for Organization?
+
+5) How you are playing the role of a good team member? 
+(Like, Have you shared your knowledge among your team members)
+
+6) Have you participated in discussions with the UX team for implementing 
+any product and suggesting them to make a better application.
+

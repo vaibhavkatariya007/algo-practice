@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=JlfCRlFHmd8
+https://www.youtube.com/watch?v=jNxDNoYEGVU
+https://commitlint.js.org/#/guides-local-setup?id=install-commitlint

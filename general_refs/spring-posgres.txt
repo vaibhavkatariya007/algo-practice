@@ -1,0 +1,59 @@
+spring-postgresql-connection
+
+Follow: 
+https://stackoverflow.com/questions/64887640/how-to-connect-postgres-in-gradle-project
+
+https://www.youtube.com/watch?v=A8qZUF-GcKo
+
+
+Notes: 
+Dependency:---
+
+Data JPA
+Postgresql Drivers
+
+Install DB using Docker--------
+
+docker pull postgres
+
+docker run  --name dbtut -p 5432:5432 -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -d postgres
+
+
+Config:
+application.properties--------
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
+spring.datasource.username=postgres
+spring.datasource.password=postgres
+
+spring.datasource.hikari.connectionTimeout=20000
+spring.datasource.hikari.maximumPoolSize=5
+
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQL95Dialect
+spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+
+DBeaver - db manager
+
+create model package
+
+create Product model
+
+alt+insert shotcut for auto creating constructor,getter,setters
+
+create repository package
+create interface class of Product
+
+Create Controller
+Product controller
+
+
+
+
+
+
+
+
